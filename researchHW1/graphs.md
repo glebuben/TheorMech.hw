@@ -1,0 +1,8 @@
+# Y(x)
+![til](./pictures/trajectory Y(x).png)
+# Y(t) and X(t)
+![til](./pictures/trajectory Y(t) and X(t).png)
+# v(t)
+![til](./pictures/v(t).png)
+# a_t(t) and a_n(t)
+![til](./pictures/a_t(t) and a_n(t).png)
